@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 # Title: PwnX.py, formerly known as VulnX
-# Author: cs (@KaliLincox on Twitter)
+# Author: cs (@elordcs on Twitter)
 # Date: 03/07/2020, remastered 26/02/2021
 # Description: Pwn misconfigured sites running ShareX custom image uploader API through RFI -> RCE.
 
