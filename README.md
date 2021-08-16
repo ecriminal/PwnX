@@ -1,4 +1,4 @@
-# PwnX.py (VulnX remastered)
+# PwnX.py
 
  Pwn misconfigured sites running ShareX custom image uploader API through **RFI -> RCE**.
 
